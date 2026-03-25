@@ -1,2 +1,3 @@
-# EnrollHub365
-EnrollHub365 is a  is a cloud-native self-service enrollment management solution for Windows 365 Cloud PC and Azure Virtual Desktop
+**EnrollHub365**  is a  is a cloud-native self-service enrollment management solution built entirely on the **Microsoft Azure** and **Microsoft 365** platform. It automates and governs the lifecycle of user access to **Windows 365 Cloud PCs**  or **Azure Virtual Desktops**— from initial enrollment requests through scheduled activation and controlled revocation — all in a structured, auditable, and secure manner.
+
+Designed for organizations that rely on Microsoft's modern workplace infrastructure, EnrollHub365 fits seamlessly within your existing **Microsoft Entra ID (Azure AD)**, **Microsoft Intune**, and **Azure** environment, requiring no third-party infrastructure.
